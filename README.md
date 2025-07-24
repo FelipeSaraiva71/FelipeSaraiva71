@@ -13,7 +13,7 @@
 
 <p alingn="left">🛠️ Iniciando na exploração de back-end e automação de tarefas do mundo real.
 🚀 Buscando criar soluções simples, funcionais e seguras, respeitando meus limites e evoluindo com responsabilidade.
-📚 Em constante aprendizado, transformando cada desafio em uma oportunidade de crescimento — um passo de cada vez.</p>p>
+📚 Em constante aprendizado, transformando cada desafio em uma oportunidade de crescimento — um passo de cada vez.</p>
 
 <p align="left">✨ Criando bugs desde 01/25<br>📚 Atualmente aprendendo Programação Orientada a Objetos em Java<br>🎯 Meta: Me tornar desenvolvedor backend e iniciar na carreira para aprender na prática</p>
 
