@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 01/25<br>📚 Atualmente aprendendo Programação Orientada a Objetos em Java<br>🎯 Meta: Me tornar desenvolvedor backend e iniciar na carreira aprimorar minha pratica</p>
+<p align="left">✨ Criando bugs desde 01/25<br>📚 Atualmente aprendendo Spring boot<br>🎯 Meta: Me tornar desenvolvedor backend</p>
 
 ###
 
