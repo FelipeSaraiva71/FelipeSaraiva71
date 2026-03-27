@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 01/25<br>📚 Atualmente aprendendo Spring boot<br>🎯 Meta: Me tornar desenvolvedor backend</p>
+<p align="left">✨ Criando bugs desde 2025<br>📚 Atualmente aprendendo Spring boot API Rest Docker e AWS<br>🎯 Meta: Me tornar desenvolvedor backend</p>
 
 ###
 
